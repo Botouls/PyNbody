@@ -1,7 +1,7 @@
-# <center> N-Body gravitacional em Python x Python NumPy x </center>
+## <center> N-Body gravitacional em Python x Python NumPy x </center>
 # <center> Python Numba CPU x Python Numba CPU // </center>
 ## <center> v1.5.5 - 22/11/2018 a 15/02/2019 </center>
-## <center> $M = 5$ passos, $dt = 0.01$, $N = 1000$ corpos em cubo homogêneo</center>
+## <center> M = 5 passos, dt = 0.01, N = 1000 corpos em cubo homogêneo</center>
 ### Autoria da v1.0, v1.3, v1.4 : Flávio Manoel Santos Hemerli
 #### Revisão v1.1, v1.2, v1.3.1, v1.4.1, v1.4.6-9, v1.5.0-5 : Roberto Colistete Júnior
 -> Computador do prof. Roberto Colistete Jr. :  
